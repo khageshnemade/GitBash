@@ -1,0 +1,10 @@
+Ptions for refs/heads/main:
+remote:
+remote: - At least 1 approving review is required by reviewers with write access.
+remote:
+To https://github.com/khageshnemade/GitBash.git
+   69ece0b..897284f  main -> main
+branch 'main' set up to track 'origin/main'.
+PS C:\Users\khage\OneDrive\Documents\Gitbash> git checkout branch3
+Switched to branch 'branch3'
+Your branch is up to date with 'origin/branch3'.
