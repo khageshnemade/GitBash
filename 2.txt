@@ -1,0 +1,18 @@
+PS C:\Users\khage\OneDrive\Documents\Gitbash> git commit -m "commited on today"
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+PS C:\Users\khage\OneDrive\Documents\Gitbash> git push -u origin main
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0
+remote: Bypassed rule violations for refs/heads/main:
+remote:
+remote: - At least 1 approving review is required by reviewers with write access.
+remote:
+To https://github.com/khageshnemade/GitBash.git
+   69ece0b..897284f  main -> main
+branch 'main' set up to track 'origin/main'.
+PS C:\Users\khage\OneDrive\Documents\Gitbash> git checkout branch3
+Switched to branch 'branch3'
+Your branch is up to date with 'origin/branch3'.
